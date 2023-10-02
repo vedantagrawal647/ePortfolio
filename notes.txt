@@ -1,2 +1,0 @@
-AccountSID=AC034b69894eb85bca4b86d0d9b24fa628
-AuthToken=9c795ac62fbc986050bffc78a8149df0
